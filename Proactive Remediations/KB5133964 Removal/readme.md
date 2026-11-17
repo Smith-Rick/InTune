@@ -7,6 +7,7 @@ Looks for hotpatch errors in the event logs and the KB to be installed.
 Then removes the KB, does not force a reboot, but a reboot is required to fully uninstall. 
 
 Reported Problems:
+https://www.neowin.net/news/windows-11-kb5132043-kb5132061-break-printing-citrix-and-sage/
 https://www.reddit.com/r/sysadmin/comments/1xyhzxr/kb5132043_breaks_citrix_workspace_app_and_msiexec/
 https://www.reddit.com/r/msp/comments/1xt4ucr/sage_50_crashing_caused_by_kb5132043_on_26h2/
 https://www.reddit.com/r/sysadmin/comments/1xsp3bk/comment/19shvw3cg1isl/
